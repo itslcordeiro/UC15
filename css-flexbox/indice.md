@@ -139,8 +139,9 @@ Após Flexbox, estudar Grid e animações para aprimorar layouts modernos.
 - [MDN Web Docs – CSS Flexible Box Layout (Flexbox)](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout)  
 - [W3Schools – CSS Flexbox](https://www.w3schools.com/css/css3_flexbox.asp)  
 - [Flexbox Froggy – Jogo interativo para aprender Flexbox](https://flexboxfroggy.com/)
-- [HOMEPAGE DO GOOGLE - ESTRUTURA DA PÁGINA](https://youtu.be/fggcHsk-4nw?si=3M78RtsbO8Y4uhAp)
-- [TELA DE LOGIN](https://youtu.be/UoPp9DE2X3E?si=_LSs0YN2JRhqVfFr)
+- [Homepage do google](https://youtu.be/fggcHsk-4nw?si=3M78RtsbO8Y4uhAp)
+- [Tela de login](https://youtu.be/UoPp9DE2X3E?si=_LSs0YN2JRhqVfFr)
+- [Criando uma galeria de fotos com HTML, CSS e FLEXBOX](https://youtu.be/yjqVSQ5_77o)
 
 
 
