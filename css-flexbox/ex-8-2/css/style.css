@@ -29,6 +29,11 @@
             max-width: 300px;
             height: auto;
             border-radius: 5px;
+            transition: transform 5s linear;
+        }
+
+        .galeria .item:hover {
+            transform: scale(1.1);
         }
 
         .item {
