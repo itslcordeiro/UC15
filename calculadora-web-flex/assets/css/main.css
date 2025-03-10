@@ -1,0 +1,80 @@
+body {
+    background-color: #ECF3FA;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.calculator {
+    background-color: #011A33;
+    width: 250px;
+    border-radius: 15px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.result {
+    height: 100px;
+    color: #dfdfdf;
+    word-wrap: break-word;
+    border-bottom: 2px solid #ECF3FA;
+    font-size: 35px;
+    width: 100%;
+    text-align: right;
+    padding-right: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+.buttons {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 5px;
+    margin-top: 10px;
+}
+.btn {
+    background-color: #2C537A;
+    width: 50px;
+    height: 40px;
+    cursor: pointer;
+    border: none;
+    color: #dfdfdf;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn:hover {
+    background-color: #577EA5;
+}
+
+.ac { 
+    background-color: #637c96; 
+    width: 106px; 
+}
+
+.ac:hover { 
+    background-color: #90b0cf8e; 
+}
+
+.especial { 
+    background-color: #0F3050; 
+    width: 50px;
+    height: 40px;
+}
+
+.especial:hover { 
+    background-color: #0f305042; 
+}
+    
+.igual { 
+    background-color: #0F3050; 
+    width: 106px; 
+}
+
+.igual:hover { 
+    background-color: #0f305042; 
+}
